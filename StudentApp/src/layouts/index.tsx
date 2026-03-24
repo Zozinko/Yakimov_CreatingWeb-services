@@ -35,6 +35,11 @@ const App: React.FC = () => {
               label: <Link to="/">Home</Link>,
             },
             {
+              key: 'students',
+              icon: <UserOutlined />,
+              label: <Link to="/students">Students table</Link>,
+            },
+            {
               key: 'dock',
               icon: <UserOutlined />,
               label: <Link to="/about">About App</Link>,

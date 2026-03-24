@@ -35,6 +35,7 @@ const ModalButton = ({
         open={open}
         onOk={onClose}
         onCancel={onClose}
+        footer={null}
       >
         {children}
       </Modal>
