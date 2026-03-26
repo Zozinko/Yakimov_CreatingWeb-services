@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5EA40-128F-486E-B4EB-5EE62F74FED9}|StudentServer.csproj|d:\\zozinko\\repositories\\gurin_2026\\yakimov_creatingweb-services\\studentserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5EA40-128F-486E-B4EB-5EE62F74FED9}|StudentServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5EA40-128F-486E-B4EB-5EE62F74FED9}|StudentServer.csproj|d:\\zozinko\\repositories\\gurin_2026\\yakimov_creatingweb-services\\studentserver\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5EA40-128F-486E-B4EB-5EE62F74FED9}|StudentServer.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5EA40-128F-486E-B4EB-5EE62F74FED9}|StudentServer.csproj|d:\\zozinko\\repositories\\gurin_2026\\yakimov_creatingweb-services\\studentserver\\data\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5EA40-128F-486E-B4EB-5EE62F74FED9}|StudentServer.csproj|solutionrelative:data\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB5EA40-128F-486E-B4EB-5EE62F74FED9}|StudentServer.csproj|d:\\zozinko\\repositories\\gurin_2026\\yakimov_creatingweb-services\\studentserver\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB5EA40-128F-486E-B4EB-5EE62F74FED9}|StudentServer.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:48:46.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:44:30.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\Data\\StudentData.cs",
+              "RelativeDocumentMoniker": "Data\\StudentData.cs",
+              "ToolTip": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\Data\\StudentData.cs",
+              "RelativeToolTip": "Data\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:42:55.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Zozinko\\Repositories\\Gurin_2026\\Yakimov_CreatingWeb-services\\StudentServer\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:41:00.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
